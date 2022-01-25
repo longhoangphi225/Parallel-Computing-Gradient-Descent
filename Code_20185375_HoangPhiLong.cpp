@@ -103,6 +103,8 @@ double norm_serial(int p, double* &gradient)
 
 }
 
+// example comment
+
 void gradient_descent_parallel(double* &X, double* &X_T, double* &y, double* &theta, double* &gradient)
 {
     double* X_theta;
